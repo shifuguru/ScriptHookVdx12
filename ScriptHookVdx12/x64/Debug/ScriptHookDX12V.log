@@ -1,0 +1,11 @@
+﻿  dllmain.cpp
+F:\GTA5 scripts\Projects\ScriptHookDX12V\dllmain.cpp(50,30): warning C4244: 'argument': conversion from 'uint64_t' to 'Hash', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+F:\GTA5 scripts\Projects\ScriptHookDX12V\dllmain.cpp(51,41): warning C4244: 'argument': conversion from 'uint64_t' to 'Hash', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+F:\GTA5 scripts\Projects\ScriptHookDX12V\dllmain.cpp(59,47): warning C4244: 'argument': conversion from 'uint64_t' to 'Hash', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+  ScriptHookDX12V.vcxproj -> F:\GTA5 scripts\Projects\ScriptHookDX12V\x64\Debug\ScriptHookDX12V.dll

@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+F:\GTA5 scripts\Projects\ScriptHookDX12V\dllmain.cpp(23,6): error C2374: 'menuOpen': redefinition; multiple initialization
+  (compiling source file '/dllmain.cpp')
+      F:\GTA5 scripts\Projects\ScriptHookDX12V\dllmain.cpp(20,6):
+      see declaration of 'menuOpen'
+  
